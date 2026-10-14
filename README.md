@@ -191,10 +191,10 @@ To verify the installation, you can perform the following test flow:
 
 ## 👨‍💻 Author
 
-**Grish A**
+**HARISH KUMAR M**
 
 Student Developer | Web Development | Software Projects
-[GitHub Profile](https://github.com/Grish2219)
+[GitHub Profile](https://github.com/harish-6104)
 
 ---
 
